@@ -1,0 +1,26 @@
+/*
+ *Name: Malik Wensman
+ *UnityID: mdwensma
+ *Date: 2/4/2023
+ *Assignment: Independent Assignment 4 (HTML and Styling)
+ *Description: Make a website using html and css
+ */
+ 
+ 
+/* Background color */
+* {
+    background-color: #318CE7;
+	font-family: Times;
+}
+
+
+#MyTable {
+	border: 4px solid #FFFFFF;
+}
+
+
+.imgborder { 
+    border: 2px solid #00FF00;
+	max-height: 250px;
+	max-width: 200px;
+}

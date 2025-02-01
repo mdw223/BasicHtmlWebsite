@@ -1,0 +1,22 @@
+/*
+ *Name: Malik Wensman
+ *UnityID: mdwensma
+ *Date: 2/4/2023
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me webpage
+ */
+ 
+p {
+    font-family: Times;
+	font-size: 16;
+	color: #FFFFFF;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+	max-width: 250px;
+	max-height:300px;
+}
